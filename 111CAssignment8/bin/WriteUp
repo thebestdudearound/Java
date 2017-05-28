@@ -1,0 +1,11 @@
+I actually got confused while working on this because Chapter 22 is mainly all about HashedDictionary.
+For a long time I tried using that class to solve the problem but eventually gave up and just used HashMap.
+I was able to find the frequencies and display them in alphabetical order which made it easier for me to find certain word frequencies. 
+However, the assignment directions were so vague that I ended up changing my code completely at least 3 times. 
+I ran out of time so I couldn't make it look as nice or just how I wanted to in general. I also messed up working with lowercases so words wouldnt repeat.
+- Most Frequent Word: "the"
+- "Alice": 395
+- "Rabbit": 50
+- "Cheshire": 7
+- "Mad": 15
+- "Hatter": 56

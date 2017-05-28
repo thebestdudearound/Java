@@ -1,0 +1,27 @@
+/**
+*
+* Sebastian Kleinerman
+* Java 111C
+* Chapter 28 Questions 
+*
+*/
+
+2) a) Undirected, Disconnected, Acyclic
+   b) Undirected, Connected, with simple cycle
+   c) Undirected, Connected, with simple cycle
+   
+3) a) It could be either, in my opinion. It'd be directed if an edge has to point from the person/vertex that knows the second person/vertex,
+	  but the second person/vertex doesn't necessarily have to know the first person/vertex back. It'd be undirected if it's assumed the acquaintance is mutual.
+   b) The set of vertices represents people that some "vertex x" knows.
+   c) A path represents how many people one person/vertex has to meet in order to meet the final person/vertex, but after the first person/vertex
+      because that means that acquaintance has already been made. 
+   d) To know the least amount of people I have to go through to come in contact with a certain other person/vertex.
+   e) No. There won't be a path between every possible pair of people born since January 1, 1995.
+   
+4) a) GHIFCBE  b) FCHBIE  
+
+5) a) GHIFCBE  b) FCBEHI
+
+6) a) ABEDHGIFC  b) ADGHIFCBE
+
+8) 
